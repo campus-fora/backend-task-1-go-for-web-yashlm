@@ -1,3 +1,10 @@
+<h2>Frontend is made with Next.js and the backend is written in Go using go-gin framework and PostgreSQL.</h2>
+
+Integration of frontend with backend hasn't been done yet.
+All the files are in the master branch.
+
+<hr>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
