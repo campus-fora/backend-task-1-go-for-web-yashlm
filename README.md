@@ -1,6 +1,6 @@
 <h2>Frontend is made with Next.js and the backend is written in Go using go-gin framework and PostgreSQL.</h2>
 
-Integration of frontend with backend hasn't been done yet.
+Integration of frontend with backend hasn't been done yet.<br>
 All the files are in the master branch.
 
 <hr>
